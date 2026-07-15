@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-15T08:14:22.386Z",
+  "lastUpdated": "2026-07-15T08:14:25.604Z",
   "submissions": {
     "longest-palindromic-substring": {
       "questionId": "5",
@@ -14,9 +14,9 @@
       ],
       "solutions": {
         "java": {
-          "syncedAt": 1784103262386,
+          "syncedAt": 1784103265604,
           "runtime": "19 ms",
-          "memory": "46.7 MB",
+          "memory": "47.1 MB",
           "githubPath": "Two Pointers/Longest Palindromic Substring/"
         }
       }
